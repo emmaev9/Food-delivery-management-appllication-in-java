@@ -1,0 +1,13 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Butter-Sugar Crepes    Price: 25
+Butterscotch Budino with Whipped Crème Fraîche    Price: 82
+Mustard Tarragon Butter    Price: 30
+Total price: 137
+Date: 2022/5/16 at 10:47:57

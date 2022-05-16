@@ -1,0 +1,13 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Brandy Alexander II    Price: 42
+Chicken Burgers with Lemon and Tarragon    Price: 75
+Butter-Sugar Crepes    Price: 25
+Total price: 142
+Date: 2022/5/16 at 12:32:51

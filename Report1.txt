@@ -1,0 +1,21 @@
+OrderID: 7
+ClientID: 1
+Products: Aunt Tom's Italian Cream Cake , Butter-Sugar Crepes , Date: 2022-05-15T14:31:13.593324100
+OrderID: 6
+ClientID: 1
+Products: Brandy Alexander II , Sweet and Sour Pickles , Date: 2022-05-15T10:39:56.232607400
+OrderID: 3
+ClientID: 1
+Products: Brandy Alexander II , Mustard Tarragon Butter , Date: 2022-05-15T10:28:49.188422400
+OrderID: 2
+ClientID: 1
+Products: Brandy Alexander II , Date: 2022-05-15T10:28:39.257091
+OrderID: 4
+ClientID: 1
+Products: Poached Sockeye Salmon with Mustard Herb Sauce , Date: 2022-05-15T10:29:11.144480700
+OrderID: 0
+ClientID: 2
+Products: Mustard Tarragon Butter , Date: 2022-05-15T10:26:38.386801600
+OrderID: 5
+ClientID: 1
+Products: Scallop and Shrimp Creole , Lobster with Roasted Garlic-Potato Salad and Coleslaw , Date: 2022-05-15T10:36:07.792660700

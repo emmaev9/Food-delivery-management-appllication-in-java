@@ -1,0 +1,12 @@
+Bill
+
+First Name: silviu
+Last Name: gr
+Email: silviu@yahoo.com
+Phone number: 0857382764
+
+Products: 
+Mustard Tarragon Butter    Price: 30
+Grog    Price: 28
+Total price: 58
+Date: 2022/5/15 at 20:5:53

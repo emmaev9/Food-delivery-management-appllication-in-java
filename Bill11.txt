@@ -1,0 +1,13 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Scallop and Shrimp Creole    Price: 23
+Sautéed Chicken Breasts With Country Ham and Sage Sauce    Price: 54
+Aunt Tom's Italian Cream Cake    Price: 65
+Total price: 142
+Date: 2022/5/15 at 22:55:9

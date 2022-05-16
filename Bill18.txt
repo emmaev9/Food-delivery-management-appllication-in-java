@@ -1,0 +1,11 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Potato-Leek Soup with Cheese    Price: 99
+Total price: 99
+Date: 2022/5/16 at 10:52:3

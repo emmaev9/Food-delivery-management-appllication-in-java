@@ -1,0 +1,12 @@
+Bill
+
+First Name: Claudiu
+Last Name: Pop
+Email: clau@yahoo.com
+Phone number: 0793648726
+
+Products: 
+Broiled Shrimp Appetizer    Price: 82
+Banana Coconut Crunch Cake    Price: 27
+Total price: 109
+Date: 2022/5/16 at 10:47:25

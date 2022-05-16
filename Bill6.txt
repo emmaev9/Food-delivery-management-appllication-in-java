@@ -1,0 +1,12 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Aunt Tom's Italian Cream Cake    Price: 65
+The Ultimate Bolognese Sauce    Price: 52
+Total price: 117
+Date: 2022/5/15 at 22:18:54

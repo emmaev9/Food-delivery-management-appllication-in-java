@@ -1,0 +1,13 @@
+Bill
+
+First Name: Claudiu
+Last Name: Pop
+Email: clau@yahoo.com
+Phone number: 0793648726
+
+Products: 
+Cream of Onion Soup    Price: 14
+Celery and Parsnip Soup with Green Onion-Dill Matzo Balls    Price: 15
+Ivory Carrot Soup with a Fine Dice of Orange Carrots    Price: 10
+Total price: 39
+Date: 2022/5/16 at 10:46:1

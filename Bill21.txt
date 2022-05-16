@@ -1,0 +1,12 @@
+Bill
+
+First Name: Emma
+Last Name: Szakacs
+Email: emma@yahoo.com
+Phone number: 0742707835
+
+Products: 
+Spicy Black Beans and Rice    Price: 69
+Pear and Dried Cherry Frangipane Cake    Price: 96
+Total price: 165
+Date: 2022/5/16 at 12:34:34
