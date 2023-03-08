@@ -1,3 +1,0 @@
-Clients: Id: 1
-Name: Emma Szakacs
-
